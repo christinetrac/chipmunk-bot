@@ -11,4 +11,4 @@ client.on('message', msg => {
  }
  });
 
-client.login('token');
+client.login('token'); //i cant put my actual token here anymore hahahah my bot got hacked so... :(
