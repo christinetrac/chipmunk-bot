@@ -71,4 +71,4 @@ client.on('message', msg => {
     }
 });
 
-client.login('token'); //i cant put my actual token here anymore hahahah my bot got hacked so... :(
+client.login(process.env.BOT_TOKEN); 
