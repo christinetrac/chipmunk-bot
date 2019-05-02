@@ -25,13 +25,13 @@ client.on('message', msg => {
 
 client.on('message', msg => {
     if (msg.content === "christine") {
-        msg.reply('im baby')
+        msg.reply('christine is baby')
     }
 });
 
 client.on('message', msg => {
     if (msg.content === "jonathan") {
-        msg.reply('im doggy')
+        msg.reply('jonathan is doggy')
     }
 });
 
